@@ -54,6 +54,12 @@ public class MainActivity extends AppCompatActivity {
         Log.d("WWWWWWW","WWWWWWWW");
         Log.d("WWWWWWW","WWWWWWWW");
 
+        Log.d("WWWWWWW","WWWWWWWW");
+        Log.d("WWWWWWW","WWWWWWWW");
+        Log.d("WWWWWWW","WWWWWWWW");
+        Log.d("WWWWWWW","WWWWWWWW");
+        Log.d("WWWWWWW","WWWWWWWW");
+
         return super.onOptionsItemSelected(item);
     }
 }
